@@ -1,0 +1,7 @@
+src/main/resources/static/node_modules
+target/
+.idea/
+*.iml
+src/main/resources/static/app/**/*.js
+src/main/resources/static/app/**/*.js.map
+

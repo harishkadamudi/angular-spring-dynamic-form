@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noEmitOnError": false,
+    "rootDir": ".",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "sourceRoot": "src/main/webapp/app",
+    "inlineSourceMap": false,
+    "inlineSources": false
+  },
+  "exclude": [
+    "src/main/resources/static/node_modules"
+  ],
+  "compileOnSave": true
+}
