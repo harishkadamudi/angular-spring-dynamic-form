@@ -125,5 +125,9 @@ $ mvn spring-boot:run
 - Npm modules should be automatically installed and typescript files compiled (see pom.xml file)
 - Then go to http://localhost:8080
 
+or mvn clean package
+
+java -jar target/<jar-name>
+
 # Contributors
 * Harish Kadamudi ([@harishkadamudi](https://github.com/harishkadamudi))
